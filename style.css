@@ -1,6 +1,12 @@
 body {
   margin: 0 auto;
+<<<<<<< HEAD
   padding-left: 20px;
   background-color: darkgray; }
+=======
+  padding-left: 50px;
+  background-color: dimgrey;
+  color: white; }
+>>>>>>> secondBranch
 
 /*# sourceMappingURL=style.css.map */
