@@ -7,4 +7,5 @@ autoprefixer-cli -o style.prefixed.css style.css
 
 Komnenda nu-html-checker do wyswietlania listy błędów we wszystkich plikach .html
 
+
 nu-html-checker  *.html
