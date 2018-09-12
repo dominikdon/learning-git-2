@@ -22,7 +22,7 @@
     "watch": "npm-run-all build -p watch:*",
     "watch:sassprefixer": "onchange sass/*.scss -- npm-run-all -s build:sass build:autoprefixer watch:sassprefixer",
 
-    "watch:browsersync": "browser-sync start --server --files 'css/*.css, css/*.html'"
+    "watch:browsersync": "browser-sync start --server --files '**/*.css,*.html'"
   },
   "keywords": [],
   "author": "",
